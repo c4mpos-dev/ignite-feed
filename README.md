@@ -3,7 +3,7 @@
 </h1> 
 
 <p align="center">
-  <img alt="Banner" title="Light Mode" src="./src/assets/templates/banner.png"/>
+  <img alt="Banner" title="Banner" src="./src/assets/templates/banner.png"/>
 </p>
 
 ## 📌 Sobre o Projeto
